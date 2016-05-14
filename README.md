@@ -2,6 +2,9 @@
 
 # Java Script
 
+### Playing around:
+
+- Experiment with [JS Bin](jsbin.com)
 
 ### Resources
 
