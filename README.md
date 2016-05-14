@@ -4,7 +4,7 @@
 
 ### Playing around:
 
-- Experiment with [JS Bin](jsbin.com)
+- Experiment with [JS Bin](http://jsbin.com)
 
 ### Resources
 
